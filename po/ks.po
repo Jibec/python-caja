@@ -4,7 +4,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Rasti K5 <rasti.khdhr@gmail.com>, 2018
 # Transifex Bot <>, 2026
 # 
 msgid ""
@@ -14,16 +13,16 @@ msgstr ""
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-12 10:42+0000\n"
 "Last-Translator: Transifex Bot <>, 2026\n"
-"Language-Team: Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/)\n"
+"Language-Team: Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ku_IQ\n"
+"Language: ks\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: libcaja-python.caja-extension.desktop.in:5
 msgid "Python"
-msgstr "پایسن"
+msgstr ""
 
 #: libcaja-python.caja-extension.desktop.in:6
 msgid "Allows to use Python extensions"
